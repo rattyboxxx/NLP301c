@@ -1,0 +1,15 @@
+spacy
+nltk
+transformers
+textblob
+scikit-learn
+pandas
+numpy
+gensim
+matplotlib
+spacy_langdetect
+textacy
+sumy
+simpletransformers
+bs4
+pprintpp
